@@ -4,7 +4,6 @@
 *{
     margin: 0%;
     padding: 0%;
-    border: 0%;
     box-sizing: border-box;
 }
 :root{
@@ -80,12 +79,12 @@ section p {
     min-height: auto;
     background-size:100%;
   }
-  .bg{
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  .mySlides{
+    display: none;
+    vertical-align: middle;
   }
+  
+  
 /* Slideshow container */
 .slideshow-container {
     max-width: 1000px;
