@@ -11,7 +11,7 @@
 }
 
 body{
-    background-image: linear-gradient(to right, rgb(139, 133, 133) ,80%, rgba(255, 255, 255, 0.623))
+    background-image: linear-gradient(to right, rgb(139, 133, 133) ,80%, rgba(255, 255, 255, 0.623));
     
 }
 #container{
@@ -79,22 +79,25 @@ section p {
     min-height: auto;
     background-size:100%;
   }
+ 
   .mySlides{
     display: none;
+  }
+  .slideshow-container img {
     vertical-align: middle;
   }
-  
-  
+
 /* Slideshow container */
 .slideshow-container {
     max-width: 1000px;
     position: relative;
     margin: auto;
+
   }
   
   /* Next & previous buttons */
   .prev, .next {
-    position: relative;
+    position: relative[];
     cursor: pointer;
     top: 50%;
     width: auto;
