@@ -75,11 +75,8 @@ section h2{
     background-color: #3F3E45;
     padding: 1%;
     border-radius: 10px;
-    max-width: 400px;
+    max-width: 350px;
     max-height: auto;
-    min-width: 100px;
-    min-height: auto;
-    background-size:100%;
   }
  
   .mySlides{
